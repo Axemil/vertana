@@ -1,0 +1,5 @@
+Signup form
+
+```jsx
+<Signup />
+```

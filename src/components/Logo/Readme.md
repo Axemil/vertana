@@ -1,0 +1,5 @@
+Site logo
+
+```jsx
+<Logo />
+```

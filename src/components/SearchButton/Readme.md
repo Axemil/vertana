@@ -1,0 +1,5 @@
+Search button
+
+```jsx
+<SearchButton />
+```

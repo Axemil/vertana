@@ -1,0 +1,20 @@
+enum Colors {
+	Black = "#000000",
+	White = "#ffffff",
+	Gray900 = "#4A4A4A",
+	Gray700 = "#7f7f7f",
+	Gray600 = "#d7d7d7",
+	Gray200 = "#f0f1ef",
+	Gray100 = "#FBFBFB",
+	Pink = "#ff60bf",
+	GreenMedium = "#47C647",
+	GreenDark = "#389E38",
+	GreenLight = "#F6FCF6",
+	BlueDark = "#00A4C7",
+	// BlueDark = "#0139AA",
+	BlueMedium = "#0066CC",
+	Violet = "#7149C9",
+	Orange = "#E08B19",
+	Sky = "#ECF6F9",
+}
+export default Colors;

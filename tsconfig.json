@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		"outDir": "./build/",
+		"sourceMap": true,
+		"noImplicitAny": false,
+		"module": "commonjs",
+		"target": "esnext",
+		"jsx": "react",
+		"allowSyntheticDefaultImports": true,
+		"esModuleInterop": true,
+		"baseUrl": ".",
+		"paths": {
+			"components/*": ["src/components/*"],
+			"containers/*": ["src/containers/*"],
+			"common/*": ["src/common/*"],
+			"assets/*": ["src/assets/*"],
+			"app/*": ["src/app/*"],
+			"pages/*": ["src/pages/*"],
+			"util/*": ["src/util/*"],
+			"hooks/*": ["src/hooks/*"],
+			"queries/*": ["src/queries/*"],
+			"gql/*": ["src/gql/*"]
+		}
+	},
+	"exclude": ["node_modules", "build"]
+}
